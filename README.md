@@ -4,7 +4,7 @@ Pełnoekranowe warcaby 3D z autorskim wariantem **Eclipse**. Dwa połączone por
 
 Gra działa w przeglądarce. Nie wymaga konta, kluczy API, płatnych usług ani serwera aplikacyjnego.
 
-**[Zagraj w ECLIPSE](https://apkmasondev.github.io/eclipse/)**
+**[Zagraj w ECLIPSE](https://apkmason.dev/eclipse/)**
 
 ## Co zawiera gra
 
@@ -112,7 +112,7 @@ Udostępnij **zawartość katalogu `dist/`** na dowolnym hostingu statycznym. Ni
 
 ### GitHub Pages
 
-W tym repozytorium skonfigurowano publikację pod adresem **https://apkmasondev.github.io/eclipse/**.
+Gra jest hostowana na **GitHub Pages** pod adresem **[apkmason.dev/eclipse/](https://apkmason.dev/eclipse/)**. Adres [apkmasondev.github.io/eclipse/](https://apkmasondev.github.io/eclipse/) przekierowuje do tej domeny, ponieważ konto właściciela ma już skonfigurowaną własną domenę GitHub Pages.
 
 Każdy push na `main` uruchamia [workflow](.github/workflows/pages.yml), który:
 
