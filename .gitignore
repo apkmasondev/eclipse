@@ -1,0 +1,24 @@
+# Dependencies and local tooling
+node_modules/
+.cache/
+.vscode/
+.idea/
+
+# Credentials and provider-specific configuration
+.env
+.env.*
+!.env.example
+.openai/
+.sites-runtime/
+.wrangler/
+
+# Logs, reports and temporary exports
+*.log
+coverage/
+test-artifacts/
+*.tar.gz
+*.zip
+.DS_Store
+Thumbs.db
+
+# dist/ is the actual application source and must stay tracked.
